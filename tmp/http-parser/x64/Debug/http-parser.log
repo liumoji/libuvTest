@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(372,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  http_parser.c
+e:\github\nodecc\http-parser\http_parser.c(1342): warning C4244: “+=”: 从“__int64”转换到“uint32_t”，可能丢失数据
+e:\github\nodecc\http-parser\http_parser.c(1454): warning C4244: “+=”: 从“__int64”转换到“uint32_t”，可能丢失数据
+e:\github\nodecc\http-parser\http_parser.c(1637): warning C4244: “+=”: 从“__int64”转换到“uint32_t”，可能丢失数据
+e:\github\nodecc\http-parser\http_parser.c(2233): warning C4244: “=”: 从“__int64”转换到“uint16_t”，可能丢失数据
+e:\github\nodecc\http-parser\http_parser.c(2240): warning C4244: “=”: 从“__int64”转换到“uint16_t”，可能丢失数据
+e:\github\nodecc\http-parser\http_parser.c(2252): warning C4244: “=”: 从“__int64”转换到“uint16_t”，可能丢失数据
+e:\github\nodecc\http-parser\http_parser.c(2261): warning C4244: “=”: 从“__int64”转换到“uint16_t”，可能丢失数据
+e:\github\nodecc\http-parser\http_parser.c(2361): warning C4244: “=”: 从“__int64”转换到“uint16_t”，可能丢失数据
+  http-parser.vcxproj -> E:\GitHub\nodecc\lib\x64\Debug\http-parser.lib

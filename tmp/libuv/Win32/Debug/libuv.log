@@ -1,0 +1,38 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(372,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  winsock.c
+  winapi.c
+  util.c
+  udp.c
+  tty.c
+  thread.c
+  tcp.c
+  stream.c
+  snprintf.c
+  signal.c
+  process.c
+  process-stdio.c
+  poll.c
+  pipe.c
+  loop-watcher.c
+  handle.c
+  getnameinfo.c
+  getaddrinfo.c
+  fs.c
+  fs-event.c
+  正在生成代码...
+  正在编译...
+  error.c
+  dl.c
+  detect-wakeup.c
+  core.c
+  async.c
+  version.c
+  uv-data-getter-setters.c
+  uv-common.c
+  timer.c
+  threadpool.c
+  inet.c
+  fs-poll.c
+  正在生成代码...
+  libuv.vcxproj -> E:\GitHub\nodecc\lib\Win32\Debug\libuv.lib

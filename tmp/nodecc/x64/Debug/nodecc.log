@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(372,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  main.cc
+e:\github\nodecc\nodecc\main.cc(37): warning C4273: “strnlen”: dll 链接不一致
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(354): note: 参见“strnlen”的前一个定义
+e:\github\nodecc\nodecc\main.cc(155): warning C4267: “=”: 从“size_t”转换到“ULONG”，可能丢失数据
+e:\github\nodecc\nodecc\main.cc(167): warning C4018: “<”: 有符号/无符号不匹配
+e:\github\nodecc\nodecc\main.cc(182): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+e:\github\nodecc\nodecc\main.cc(257): warning C4267: “=”: 从“size_t”转换到“ULONG”，可能丢失数据
+  nodecc.vcxproj -> E:\GitHub\nodecc\out\x64\Debug\nodecc.exe
+  nodecc.vcxproj -> E:\GitHub\nodecc\out\x64\Debug\nodecc.pdb (Partial PDB)

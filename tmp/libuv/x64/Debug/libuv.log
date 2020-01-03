@@ -1,0 +1,102 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(372,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  winsock.c
+  winapi.c
+  util.c
+e:\github\nodecc\libuv\src\win\util.c(1214): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\util.c(1444): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  udp.c
+  tty.c
+e:\github\nodecc\libuv\src\win\tty.c(952): warning C4244: “初始化”: 从“ULONG_PTR”转换到“DWORD”，可能丢失数据
+e:\github\nodecc\libuv\src\win\tty.c(2155): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  thread.c
+  tcp.c
+e:\github\nodecc\libuv\src\win\tcp.c(366): warning C4244: “函数”: 从“ULONG_PTR”转换到“DWORD”，可能丢失数据
+e:\github\nodecc\libuv\src\win\tcp.c(385): warning C4244: “函数”: 从“ULONG_PTR”转换到“DWORD”，可能丢失数据
+  stream.c
+  snprintf.c
+  signal.c
+  process.c
+e:\github\nodecc\libuv\src\win\process.c(634): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\process.c(754): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\process.c(790): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\process.c(809): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  process-stdio.c
+  poll.c
+  pipe.c
+e:\github\nodecc\libuv\src\win\pipe.c(1084): warning C4244: “函数”: 从“ULONG_PTR”转换到“DWORD”，可能丢失数据
+e:\github\nodecc\libuv\src\win\pipe.c(1103): warning C4244: “函数”: 从“ULONG_PTR”转换到“DWORD”，可能丢失数据
+e:\github\nodecc\libuv\src\win\pipe.c(2249): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  loop-watcher.c
+  handle.c
+  getnameinfo.c
+  getaddrinfo.c
+e:\github\nodecc\libuv\src\win\getaddrinfo.c(131): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\getaddrinfo.c(424): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  fs.c
+e:\github\nodecc\libuv\src\win\fs.c(205): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(219): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(983): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(1015): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(1017): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(1436): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(1666): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(1723): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(1724): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(1752): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(1753): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2083): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2090): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2119): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2148): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2162): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2177): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2190): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2203): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2218): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2232): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2247): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2261): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2280): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2294): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2301): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2314): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2327): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2340): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2347): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2361): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2368): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2375): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2384): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2410): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2420): warning C4267: “=”: 从“size_t”转换到“ULONG”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2421): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2438): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2453): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2462): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2478): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\win\fs.c(2488): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+  fs-event.c
+e:\github\nodecc\libuv\src\win\fs-event.c(460): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  error.c
+  dl.c
+  detect-wakeup.c
+  core.c
+  async.c
+  version.c
+  uv-data-getter-setters.c
+  uv-common.c
+e:\github\nodecc\libuv\src\uv-common.c(544): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+  timer.c
+  threadpool.c
+  inet.c
+e:\github\nodecc\libuv\src\inet.c(171): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\inet.c(198): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+e:\github\nodecc\libuv\src\inet.c(294): warning C4244: “初始化”: 从“__int64”转换到“const int”，可能丢失数据
+  fs-poll.c
+e:\github\nodecc\libuv\src\fs-poll.c(188): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+e:\github\nodecc\libuv\src\fs-poll.c(191): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  libuv.vcxproj -> E:\GitHub\nodecc\lib\x64\Debug\libuv.lib
